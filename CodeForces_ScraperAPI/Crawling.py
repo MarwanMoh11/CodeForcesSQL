@@ -3,6 +3,7 @@ import undetected_chromedriver as uc
 from bs4 import BeautifulSoup
 import time
 import re
+import csv
 
 driver = uc.Chrome()
 url = "https://codeforces.com/contests"
@@ -64,8 +65,9 @@ while True:
         DIV = re.search(r'\((.*?)\)', contest_name)
         DIV_value = DIV.group(1) if DIV else None
 
-
-
+        if DIV_value is not None:
+            if 'Div. 1' not in DIV_value and 'Div. 2' not in DIV_value:
+                continue
 
         contests.append({
             'contest_id': contest_id,
@@ -77,8 +79,10 @@ while True:
         })
 
     # Break condition for the loop if we reach the desired count
-    if len(contests) >= 200:
-        break
+    inactive_arrow = doc.find('span', class_='inactive',text='→')
+    if inactive_arrow:
+        print("Reached the inactive pagination arrow. Breaking the loop.")
+        break  # Break the loop if the inactive arrow is found
 
     # Find the "arrow" (next page) link using BeautifulSoup
     next_page_link = doc.find('a', class_='arrow', text='→')
@@ -91,25 +95,35 @@ while True:
 # Print the total number of contests collected
 print(f"Total contests collected: {len(contests)}")
 
-# TABLE 1
-for contest in contests:
-    print(
-        f"Contest ID: {contest['contest_id']}, Name: {contest['contest_name']}, "
-        f"DIV: {contest['DIV']}, Date: {contest['contest_date']}, Time: {contest['contest_time']}, "
-        f"Participants: {contest['participant_count']}"
-    )
+with open('contests.csv', mode='w', newline='', encoding='utf-8') as contests_file:
+    contests_writer = csv.writer(contests_file)
+    contests_writer.writerow(['Contest ID', 'Contest Name', 'DIV', 'Date', 'Time', 'Participants'])  # Header
+    for contest in contests:
+        contests_writer.writerow([
+            contest['contest_id'],
+            contest['contest_name'],
+            contest['DIV'],
+            contest['contest_date'],
+            contest['contest_time'],
+            contest['participant_count']
+        ])
 
+# Write writers dictionary to CSV
+with open('writers.csv', mode='w', newline='', encoding='utf-8') as writers_file:
+    writers_writer = csv.writer(writers_file)
+    writers_writer.writerow(['Writer Name', 'Writer ID'])  # Header
+    for writer_name, id in writers_dict.items():
+        writers_writer.writerow([writer_name, id])
 
-# Print the writers dictionary with keys
-print("Writers Dictionary (Name: ID):")
-for writer_name, id in writers_dict.items():
-    print(f"Writer Name: {writer_name}, Writer ID: {id}")
+# Write contest ID and writer ID connections to CSV
+with open('contest_writer_connections.csv', mode='w', newline='', encoding='utf-8') as connections_file:
+    connections_writer = csv.writer(connections_file)
+    connections_writer.writerow(['Contest ID', 'Writer ID'])  # Header
+    for connection in contest_writer_connections:
+        connections_writer.writerow(connection)
 
+# Optionally, inform the user
+print("Data has been written to CSV files: contests.csv, writers.csv, contest_writer_connections.csv")
 
-# Print the contest ID and writer ID connections
-print("\nContest ID and Writer ID Connections:")
-for connection in contest_writer_connections:
-    print(f"Contest ID: {connection[0]}, Writer ID: {connection[1]}")
-
-
+# Quit the driver at the end
 driver.quit()
