@@ -9,7 +9,6 @@ driver = uc.Chrome()
 url = "https://codeforces.com/contests"
 driver.get(url)
 time.sleep(5)
-
 writer_ID = 0
 writers_dict = {}
 contest_writer_connections = []
