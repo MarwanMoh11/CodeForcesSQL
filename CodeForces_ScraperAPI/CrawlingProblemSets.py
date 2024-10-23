@@ -101,7 +101,7 @@ def scrape_websiteforlinks(url):
         if driver:
             driver.quit()
 
-url = "https://codeforces.com/problemset"  # Replace with the actual URL
+url = "https://codeforces.com/problemset/page/54"  # Replace with the actual URL
 problems = scrape_all_problem_links(url)
 
 # Convert problems list to a dictionary
@@ -239,7 +239,7 @@ if __name__ == "__main__":
 
     # Process the results and write to CSV
     try:
-        with open('ProblemSetsV2.csv', mode='w', newline='', encoding='utf-8') as connections_file:
+        with open('ProblemSetsV3.csv', mode='w', newline='', encoding='utf-8') as connections_file:
             connections_writer = csv.writer(connections_file)
             connections_writer.writerow(['ProblemID', 'Name', 'memory_limit', 'time_limit', 'Tags', 'Description'])  # Header
 
