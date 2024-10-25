@@ -1,29 +1,29 @@
-Problem ID,Tag
-2021E3,data structures
-2021E3,dfs and similar
-2021E3,dp
-2021E3,dsu
-2021E3,graphs
-2021E3,greedy
-2021E3,math
-2021E3,trees
-2021E2,data structures
-2021E2,dp
-2021E2,dsu
-2021E2,graphs
-2021E2,math
-2021E2,trees 
-2021E1,brute force
-2021E1,data structures
-2021E1,dfs and similar
-2021E1,dp
-2021E1,dsu
-2021E1,fft
-2021E1,graphs
-2021E1,greedy
-2021E1,implementation
-2021E1,math
-2021E1,trees 
+ProblemID,TAG
+2.02E+06,data structures
+2.02E+06,dfs and similar
+2.02E+06,dp
+2.02E+06,dsu
+2.02E+06,graphs
+2.02E+06,greedy
+2.02E+06,math
+2.02E+06,trees
+2.02E+05,data structures
+2.02E+05,dp
+2.02E+05,dsu
+2.02E+05,graphs
+2.02E+05,math
+2.02E+05,trees 
+2.02E+04,brute force
+2.02E+04,data structures
+2.02E+04,dfs and similar
+2.02E+04,dp
+2.02E+04,dsu
+2.02E+04,fft
+2.02E+04,graphs
+2.02E+04,greedy
+2.02E+04,implementation
+2.02E+04,math
+2.02E+04,trees 
 2021D,dp
 2021D,greedy
 2021D,implementation 
@@ -83,20 +83,20 @@ Problem ID,Tag
 2018F1,dp
 2018F1,greedy
 2018F1,math 
-2018E2,binary search
-2018E2,data structures
-2018E2,divide and conquer
-2018E2,dsu
-2018E2,greedy
-2018E2,math
-2018E2,sortings 
-2018E1,binary search
-2018E1,data structures
-2018E1,divide and conquer
-2018E1,dsu
-2018E1,greedy
-2018E1,math
-2018E1,sortings 
+2.02E+05,binary search
+2.02E+05,data structures
+2.02E+05,divide and conquer
+2.02E+05,dsu
+2.02E+05,greedy
+2.02E+05,math
+2.02E+05,sortings 
+2.02E+04,binary search
+2.02E+04,data structures
+2.02E+04,divide and conquer
+2.02E+04,dsu
+2.02E+04,greedy
+2.02E+04,math
+2.02E+04,sortings 
 2018D,data structures
 2018D,dp
 2018D,dsu
@@ -293,15 +293,15 @@ Problem ID,Tag
 2006A,graphs
 2006A,greedy
 2006A,trees 
-2005E2,data structures
-2005E2,dp
-2005E2,games
-2005E2,greedy
-2005E2,implementation 
-2005E1,dp
-2005E1,games
-2005E1,greedy
-2005E1,implementation 
+2.01E+05,data structures
+2.01E+05,dp
+2.01E+05,games
+2.01E+05,greedy
+2.01E+05,implementation 
+2.01E+04,dp
+2.01E+04,games
+2.01E+04,greedy
+2.01E+04,implementation 
 2005D,binary search
 2005D,brute force
 2005D,data structures
@@ -355,18 +355,18 @@ Problem ID,Tag
 2003F,math
 2003F,probabilities
 2003F,two pointers 
-2003E2,brute force
-2003E2,data structures
-2003E2,divide and conquer
-2003E2,dp
-2003E2,greedy
-2003E2,math
-2003E2,two pointers 
-2003E1,brute force
-2003E1,divide and conquer
-2003E1,dp
-2003E1,greedy
-2003E1,math 
+2.00E+05,brute force
+2.00E+05,data structures
+2.00E+05,divide and conquer
+2.00E+05,dp
+2.00E+05,greedy
+2.00E+05,math
+2.00E+05,two pointers 
+2.00E+04,brute force
+2.00E+04,divide and conquer
+2.00E+04,dp
+2.00E+04,greedy
+2.00E+04,math 
 2003D2,dfs and similar
 2003D2,dp
 2003D2,graphs
@@ -422,13 +422,13 @@ Problem ID,Tag
 2002A,constructive algorithms
 2002A,implementation
 2002A,math 
-2001E2,combinatorics
-2001E2,dp
-2001E2,trees 
-2001E1,combinatorics
-2001E1,dp
-2001E1,math
-2001E1,trees 
+2.00E+05,combinatorics
+2.00E+05,dp
+2.00E+05,trees 
+2.00E+04,combinatorics
+2.00E+04,dp
+2.00E+04,math
+2.00E+04,trees 
 2001D,brute force
 2001D,constructive algorithms
 2001D,data structures
@@ -491,17 +491,17 @@ Problem ID,Tag
 1999B,implementation 
 1999A,implementation
 1999A,math 
-1998E2,binary search
-1998E2,brute force
-1998E2,data structures
-1998E2,divide and conquer
-1998E2,greedy
-1998E2,implementation 
-1998E1,binary search
-1998E1,brute force
-1998E1,data structures
-1998E1,divide and conquer
-1998E1,greedy 
+2.00E+05,binary search
+2.00E+05,brute force
+2.00E+05,data structures
+2.00E+05,divide and conquer
+2.00E+05,greedy
+2.00E+05,implementation 
+2.00E+04,binary search
+2.00E+04,brute force
+2.00E+04,data structures
+2.00E+04,divide and conquer
+2.00E+04,greedy 
 1998D,data structures
 1998D,dp
 1998D,graphs
@@ -567,15 +567,15 @@ Problem ID,Tag
 1996A,binary search
 1996A,math
 1996A,ternary search 
-1995E2,data structures
-1995E2,dp
-1995E2,matrices
-1995E2,two pointers 
-1995E1,2-sat
-1995E1,data structures
-1995E1,dp
-1995E1,matrices
-1995E1,two pointers 
+2.00E+05,data structures
+2.00E+05,dp
+2.00E+05,matrices
+2.00E+05,two pointers 
+2.00E+04,2-sat
+2.00E+04,data structures
+2.00E+04,dp
+2.00E+04,matrices
+2.00E+04,two pointers 
 1995D,bitmasks
 1995D,brute force
 1995D,dp
@@ -732,17 +732,17 @@ Problem ID,Tag
 1990F,dp
 1990F,greedy
 1990F,two pointers 
-1990E2,binary search
-1990E2,data structures
-1990E2,dfs and similar
-1990E2,divide and conquer
-1990E2,interactive
-1990E2,trees 
-1990E1,binary search
-1990E1,data structures
-1990E1,dfs and similar
-1990E1,interactive
-1990E1,trees 
+1.99E+05,binary search
+1.99E+05,data structures
+1.99E+05,dfs and similar
+1.99E+05,divide and conquer
+1.99E+05,interactive
+1.99E+05,trees 
+1.99E+04,binary search
+1.99E+04,data structures
+1.99E+04,dfs and similar
+1.99E+04,interactive
+1.99E+04,trees 
 1990D,bitmasks
 1990D,brute force
 1990D,dp
@@ -1243,11 +1243,11 @@ Problem ID,Tag
 1970F3,implementation 
 1970F2,implementation 
 1970F1,implementation 
-1970E3,dp
-1970E3,matrices 
-1970E2,dp
-1970E2,matrices 
-1970E1,dp 
+1.97E+06,dp
+1.97E+06,matrices 
+1.97E+05,dp
+1.97E+05,matrices 
+1.97E+04,dp 
 1970D3,interactive 
 1970D2,constructive algorithms
 1970D2,interactive
@@ -1329,13 +1329,13 @@ Problem ID,Tag
 1967F,brute force
 1967F,data structures
 1967F,implementation 
-1967E2,combinatorics
-1967E2,dp
-1967E2,math 
-1967E1,combinatorics
-1967E1,dp
-1967E1,fft
-1967E1,math 
+1.97E+05,combinatorics
+1.97E+05,dp
+1.97E+05,math 
+1.97E+04,combinatorics
+1.97E+04,dp
+1.97E+04,fft
+1.97E+04,math 
 1967D,binary search
 1967D,dfs and similar
 1967D,graphs
@@ -1433,13 +1433,13 @@ Problem ID,Tag
 1956F,dsu
 1956F,graphs
 1956F,sortings 
-1956E2,brute force
-1956E2,greedy
-1956E2,implementation
-1956E2,math 
-1956E1,brute force
-1956E1,implementation
-1956E1,math 
+1.96E+05,brute force
+1.96E+05,greedy
+1.96E+05,implementation
+1.96E+05,math 
+1.96E+04,brute force
+1.96E+04,implementation
+1.96E+04,math 
 1956D,bitmasks
 1956D,brute force
 1956D,constructive algorithms
@@ -1705,12 +1705,12 @@ Problem ID,Tag
 1944A,greedy
 1944A,math 
 1943F,dp 
-1943E2,binary search
-1943E2,greedy
-1943E2,two pointers 
-1943E1,binary search
-1943E1,brute force
-1943E1,greedy 
+1.94E+05,binary search
+1.94E+05,greedy
+1.94E+05,two pointers 
+1.94E+04,binary search
+1.94E+04,brute force
+1.94E+04,greedy 
 1943D2,combinatorics
 1943D2,dp 
 1943D1,brute force
@@ -2424,13 +2424,13 @@ Problem ID,Tag
 1914F,graph matchings
 1914F,greedy
 1914F,trees 
-1914E2,games
-1914E2,greedy
-1914E2,sortings 
-1914E1,brute force
-1914E1,games
-1914E1,greedy
-1914E1,sortings 
+1.91E+05,games
+1.91E+05,greedy
+1.91E+05,sortings 
+1.91E+04,brute force
+1.91E+04,games
+1.91E+04,greedy
+1.91E+04,sortings 
 1914D,brute force
 1914D,dp
 1914D,greedy
@@ -2986,11 +2986,11 @@ Problem ID,Tag
 1883C,math 
 1883B,strings 
 1883A,math 
-1882E2,constructive algorithms 
-1882E1,brute force
-1882E1,constructive algorithms
-1882E1,greedy
-1882E1,number theory 
+1.88E+05,constructive algorithms 
+1.88E+04,brute force
+1.88E+04,constructive algorithms
+1.88E+04,greedy
+1.88E+04,number theory 
 1882D,bitmasks
 1882D,dfs and similar
 1882D,dp
@@ -3228,11 +3228,11 @@ Problem ID,Tag
 1867F,dfs and similar
 1867F,greedy
 1867F,hashing 
-1867E2,constructive algorithms
-1867E2,interactive 
-1867E1,constructive algorithms
-1867E1,interactive
-1867E1,math 
+1.87E+05,constructive algorithms
+1.87E+05,interactive 
+1.87E+04,constructive algorithms
+1.87E+04,interactive
+1.87E+04,math 
 1867D,brute force
 1867D,constructive algorithms
 1867D,dfs and similar
@@ -3443,13 +3443,13 @@ Problem ID,Tag
 1859A,constructive algorithms
 1859A,math
 1859A,number theory 
-1858E2,data structures
-1858E2,interactive
-1858E2,trees 
-1858E1,brute force
-1858E1,data structures
-1858E1,dfs and similar
-1858E1,trees 
+1.86E+05,data structures
+1.86E+05,interactive
+1.86E+05,trees 
+1.86E+04,brute force
+1.86E+04,data structures
+1.86E+04,dfs and similar
+1.86E+04,trees 
 1858D,brute force
 1858D,data structures
 1858D,dp
@@ -3489,17 +3489,17 @@ Problem ID,Tag
 1857B,math 
 1857A,greedy
 1857A,math 
-1856E2,bitmasks
-1856E2,dfs and similar
-1856E2,dp
-1856E2,fft
-1856E2,greedy
-1856E2,implementation
-1856E2,math
-1856E2,trees 
-1856E1,dfs and similar
-1856E1,dp
-1856E1,trees 
+1.86E+05,bitmasks
+1.86E+05,dfs and similar
+1.86E+05,dp
+1.86E+05,fft
+1.86E+05,greedy
+1.86E+05,implementation
+1.86E+05,math
+1.86E+05,trees 
+1.86E+04,dfs and similar
+1.86E+04,dp
+1.86E+04,trees 
 1856D,divide and conquer
 1856D,interactive 
 1856C,binary search
@@ -3704,13 +3704,13 @@ Problem ID,Tag
 1846F,constructive algorithms
 1846F,implementation
 1846F,interactive 
-1846E2,binary search
-1846E2,brute force
-1846E2,implementation
-1846E2,math 
-1846E1,brute force
-1846E1,implementation
-1846E1,math 
+1.85E+05,binary search
+1.85E+05,brute force
+1.85E+05,implementation
+1.85E+05,math 
+1.85E+04,brute force
+1.85E+04,implementation
+1.85E+04,math 
 1846D,constructive algorithms
 1846D,geometry
 1846D,math 
@@ -4432,17 +4432,17 @@ Problem ID,Tag
 1809B,greedy
 1809B,math 
 1809A,implementation 
-1808E3,brute force
-1808E3,combinatorics
-1808E3,dp
-1808E3,math 
-1808E2,combinatorics
-1808E2,divide and conquer
-1808E2,dp
-1808E2,matrices 
-1808E1,combinatorics
-1808E1,divide and conquer
-1808E1,dp 
+1.81E+06,brute force
+1.81E+06,combinatorics
+1.81E+06,dp
+1.81E+06,math 
+1.81E+05,combinatorics
+1.81E+05,divide and conquer
+1.81E+05,dp
+1.81E+05,matrices 
+1.81E+04,combinatorics
+1.81E+04,divide and conquer
+1.81E+04,dp 
 1808D,binary search
 1808D,brute force
 1808D,data structures
@@ -4598,19 +4598,19 @@ Problem ID,Tag
 1800F,hashing
 1800F,meet-in-the-middle
 1800F,strings 
-1800E2,brute force
-1800E2,constructive algorithms
-1800E2,dfs and similar
-1800E2,dsu
-1800E2,graphs
-1800E2,greedy
-1800E2,strings 
-1800E1,brute force
-1800E1,constructive algorithms
-1800E1,dsu
-1800E1,graphs
-1800E1,greedy
-1800E1,strings 
+1.80E+05,brute force
+1.80E+05,constructive algorithms
+1.80E+05,dfs and similar
+1.80E+05,dsu
+1.80E+05,graphs
+1.80E+05,greedy
+1.80E+05,strings 
+1.80E+04,brute force
+1.80E+04,constructive algorithms
+1.80E+04,dsu
+1.80E+04,graphs
+1.80E+04,greedy
+1.80E+04,strings 
 1800D,data structures
 1800D,greedy
 1800D,hashing
@@ -5691,12 +5691,12 @@ Problem ID,Tag
 1746F,data structures
 1746F,hashing
 1746F,probabilities 
-1746E2,dp
-1746E2,interactive 
-1746E1,binary search
-1746E1,constructive algorithms
-1746E1,interactive
-1746E1,ternary search 
+1.75E+05,dp
+1.75E+05,interactive 
+1.75E+04,binary search
+1.75E+04,constructive algorithms
+1.75E+04,interactive
+1.75E+04,ternary search 
 1746D,dfs and similar
 1746D,dp
 1746D,greedy
@@ -5713,12 +5713,12 @@ Problem ID,Tag
 1746A,greedy 
 1744F,math
 1744F,two pointers 
-1744E2,brute force
-1744E2,math
-1744E2,number theory 
-1744E1,brute force
-1744E1,math
-1744E1,number theory 
+1.74E+05,brute force
+1.74E+05,math
+1.74E+05,number theory 
+1.74E+04,brute force
+1.74E+04,math
+1.74E+04,number theory 
 1744D,greedy
 1744D,math
 1744D,sortings 
@@ -6381,17 +6381,17 @@ Problem ID,Tag
 1712F,data structures
 1712F,dfs and similar
 1712F,trees 
-1712E2,brute force
-1712E2,data structures
-1712E2,math
-1712E2,number theory
-1712E2,two pointers 
-1712E1,binary search
-1712E1,brute force
-1712E1,combinatorics
-1712E1,math
-1712E1,number theory
-1712E1,two pointers 
+1.71E+05,brute force
+1.71E+05,data structures
+1.71E+05,math
+1.71E+05,number theory
+1.71E+05,two pointers 
+1.71E+04,binary search
+1.71E+04,brute force
+1.71E+04,combinatorics
+1.71E+04,math
+1.71E+04,number theory
+1.71E+04,two pointers 
 1712D,binary search
 1712D,constructive algorithms
 1712D,data structures
@@ -7878,16 +7878,16 @@ Problem ID,Tag
 1633C,math 
 1633B,greedy 
 1633A,brute force 
-1632E2,binary search
-1632E2,dfs and similar
-1632E2,shortest paths
-1632E2,trees 
-1632E1,binary search
-1632E1,data structures
-1632E1,dfs and similar
-1632E1,graphs
-1632E1,shortest paths
-1632E1,trees 
+1.63E+05,binary search
+1.63E+05,dfs and similar
+1.63E+05,shortest paths
+1.63E+05,trees 
+1.63E+04,binary search
+1.63E+04,data structures
+1.63E+04,dfs and similar
+1.63E+04,graphs
+1.63E+04,shortest paths
+1.63E+04,trees 
 1632D,binary search
 1632D,data structures
 1632D,greedy
@@ -8009,18 +8009,18 @@ Problem ID,Tag
 1626B,strings 
 1626A,constructive algorithms
 1626A,sortings 
-1625E2,binary search
-1625E2,data structures
-1625E2,dfs and similar
-1625E2,graphs
-1625E2,trees 
-1625E1,brute force
-1625E1,data structures
-1625E1,dfs and similar
-1625E1,divide and conquer
-1625E1,dp
-1625E1,graphs
-1625E1,trees 
+1.63E+05,binary search
+1.63E+05,data structures
+1.63E+05,dfs and similar
+1.63E+05,graphs
+1.63E+05,trees 
+1.63E+04,brute force
+1.63E+04,data structures
+1.63E+04,dfs and similar
+1.63E+04,divide and conquer
+1.63E+04,dp
+1.63E+04,graphs
+1.63E+04,trees 
 1625D,bitmasks
 1625D,data structures
 1625D,implementation
@@ -8341,16 +8341,16 @@ Problem ID,Tag
 1611F,binary search
 1611F,data structures
 1611F,two pointers 
-1611E2,dfs and similar
-1611E2,dp
-1611E2,greedy
-1611E2,shortest paths
-1611E2,trees 
-1611E1,dfs and similar
-1611E1,greedy
-1611E1,shortest paths
-1611E1,trees
-1611E1,two pointers 
+1.61E+05,dfs and similar
+1.61E+05,dp
+1.61E+05,greedy
+1.61E+05,shortest paths
+1.61E+05,trees 
+1.61E+04,dfs and similar
+1.61E+04,greedy
+1.61E+04,shortest paths
+1.61E+04,trees
+1.61E+04,two pointers 
 1611D,constructive algorithms
 1611D,trees 
 1611C,constructive algorithms 
@@ -8615,13 +8615,13 @@ Problem ID,Tag
 1598A,implementation 
 1594F,constructive algorithms
 1594F,math 
-1594E2,brute force
-1594E2,dp
-1594E2,implementation
-1594E2,math
-1594E2,trees 
-1594E1,combinatorics
-1594E1,math 
+1.59E+05,brute force
+1.59E+05,dp
+1.59E+05,implementation
+1.59E+05,math
+1.59E+05,trees 
+1.59E+04,combinatorics
+1.59E+04,math 
 1594D,constructive algorithms
 1594D,dfs and similar
 1594D,dp
@@ -8823,11 +8823,11 @@ Problem ID,Tag
 1579F,math
 1579F,number theory
 1579F,shortest paths 
-1579E2,data structures
-1579E2,greedy 
-1579E1,constructive algorithms
-1579E1,greedy
-1579E1,math 
+1.58E+05,data structures
+1.58E+05,greedy 
+1.58E+04,constructive algorithms
+1.58E+04,greedy
+1.58E+04,math 
 1579D,constructive algorithms
 1579D,graphs
 1579D,greedy 
@@ -9427,10 +9427,10 @@ Problem ID,Tag
 1545F,brute force
 1545F,data structures
 1545F,dp 
-1545E2,data structures
-1545E2,dp 
-1545E1,data structures
-1545E1,dp 
+1.55E+05,data structures
+1.55E+05,dp 
+1.55E+04,data structures
+1.55E+04,dp 
 1545D,constructive algorithms
 1545D,interactive
 1545D,math 
@@ -9469,14 +9469,14 @@ Problem ID,Tag
 1543A,greedy
 1543A,math
 1543A,number theory 
-1542E2,combinatorics
-1542E2,dp
-1542E2,fft
-1542E2,math 
-1542E1,combinatorics
-1542E1,dp
-1542E1,fft
-1542E1,math 
+1.54E+05,combinatorics
+1.54E+05,dp
+1.54E+05,fft
+1.54E+05,math 
+1.54E+04,combinatorics
+1.54E+04,dp
+1.54E+04,fft
+1.54E+04,math 
 1542D,combinatorics
 1542D,dp
 1542D,implementation
@@ -9570,22 +9570,22 @@ Problem ID,Tag
 1537F,graphs
 1537F,greedy
 1537F,math 
-1537E2,binary search
-1537E2,data structures
-1537E2,greedy
-1537E2,hashing
-1537E2,string suffix structures
-1537E2,strings
-1537E2,two pointers 
-1537E1,binary search
-1537E1,brute force
-1537E1,dp
-1537E1,greedy
-1537E1,hashing
-1537E1,implementation
-1537E1,string suffix structures
-1537E1,strings
-1537E1,two pointers 
+1.54E+05,binary search
+1.54E+05,data structures
+1.54E+05,greedy
+1.54E+05,hashing
+1.54E+05,string suffix structures
+1.54E+05,strings
+1.54E+05,two pointers 
+1.54E+04,binary search
+1.54E+04,brute force
+1.54E+04,dp
+1.54E+04,greedy
+1.54E+04,hashing
+1.54E+04,implementation
+1.54E+04,string suffix structures
+1.54E+04,strings
+1.54E+04,two pointers 
 1537D,games
 1537D,math
 1537D,number theory 
@@ -9729,12 +9729,12 @@ Problem ID,Tag
 1532B,*special problem
 1532B,math 
 1532A,*special problem 
-1531E3,*special problem
-1531E3,binary search 
-1531E2,*special problem
-1531E2,*special problem
-1531E2,brute force 
-1531E1,*special problem 
+1.53E+06,*special problem
+1.53E+06,binary search 
+1.53E+05,*special problem
+1.53E+05,*special problem
+1.53E+05,brute force 
+1.53E+04,*special problem 
 1531D,*special problem
 1531D,*special problem 
 1531C,*special problem
@@ -10310,18 +10310,18 @@ Problem ID,Tag
 1498B,greedy 
 1498A,brute force
 1498A,math 
-1497E2,data structures
-1497E2,dp
-1497E2,greedy
-1497E2,math
-1497E2,number theory
-1497E2,two pointers 
-1497E1,data structures
-1497E1,dp
-1497E1,greedy
-1497E1,math
-1497E1,number theory
-1497E1,two pointers 
+1.50E+05,data structures
+1.50E+05,dp
+1.50E+05,greedy
+1.50E+05,math
+1.50E+05,number theory
+1.50E+05,two pointers 
+1.50E+04,data structures
+1.50E+04,dp
+1.50E+04,greedy
+1.50E+04,math
+1.50E+04,number theory
+1.50E+04,two pointers 
 1497D,bitmasks
 1497D,dp
 1497D,graphs
@@ -10984,17 +10984,17 @@ Problem ID,Tag
 1462F,binary search
 1462F,data structures
 1462F,greedy 
-1462E2,binary search
-1462E2,combinatorics
-1462E2,implementation
-1462E2,math
-1462E2,sortings
-1462E2,two pointers 
-1462E1,binary search
-1462E1,combinatorics
-1462E1,math
-1462E1,sortings
-1462E1,two pointers 
+1.46E+05,binary search
+1.46E+05,combinatorics
+1.46E+05,implementation
+1.46E+05,math
+1.46E+05,sortings
+1.46E+05,two pointers 
+1.46E+04,binary search
+1.46E+04,combinatorics
+1.46E+04,math
+1.46E+04,sortings
+1.46E+04,two pointers 
 1462D,greedy
 1462D,math
 1462D,number theory 
@@ -11122,14 +11122,14 @@ Problem ID,Tag
 1452A,math 
 1451F,constructive algorithms
 1451F,games 
-1451E2,bitmasks
-1451E2,constructive algorithms
-1451E2,interactive
-1451E2,math 
-1451E1,bitmasks
-1451E1,constructive algorithms
-1451E1,interactive
-1451E1,math 
+1.45E+05,bitmasks
+1.45E+05,constructive algorithms
+1.45E+05,interactive
+1.45E+05,math 
+1.45E+04,bitmasks
+1.45E+04,constructive algorithms
+1.45E+04,interactive
+1.45E+04,math 
 1451D,games
 1451D,geometry
 1451D,math 
@@ -11919,16 +11919,16 @@ Problem ID,Tag
 1399F,dp
 1399F,graphs
 1399F,sortings 
-1399E2,binary search
-1399E2,dfs and similar
-1399E2,greedy
-1399E2,sortings
-1399E2,trees
-1399E2,two pointers 
-1399E1,data structures
-1399E1,dfs and similar
-1399E1,greedy
-1399E1,trees 
+1.40E+05,binary search
+1.40E+05,dfs and similar
+1.40E+05,greedy
+1.40E+05,sortings
+1.40E+05,trees
+1.40E+05,two pointers 
+1.40E+04,data structures
+1.40E+04,dfs and similar
+1.40E+04,greedy
+1.40E+04,trees 
 1399D,constructive algorithms
 1399D,data structures
 1399D,greedy
@@ -12010,17 +12010,17 @@ Problem ID,Tag
 1394A,greedy
 1394A,sortings
 1394A,two pointers 
-1393E2,dp
-1393E2,hashing
-1393E2,implementation
-1393E2,string suffix structures
-1393E2,strings
-1393E2,two pointers 
-1393E1,dp
-1393E1,hashing
-1393E1,implementation
-1393E1,string suffix structures
-1393E1,strings 
+1.39E+05,dp
+1.39E+05,hashing
+1.39E+05,implementation
+1.39E+05,string suffix structures
+1.39E+05,strings
+1.39E+05,two pointers 
+1.39E+04,dp
+1.39E+04,hashing
+1.39E+04,implementation
+1.39E+04,string suffix structures
+1.39E+04,strings 
 1393D,dfs and similar
 1393D,dp
 1393D,implementation
@@ -12327,15 +12327,15 @@ Problem ID,Tag
 1374F,constructive algorithms
 1374F,implementation
 1374F,sortings 
-1374E2,data structures
-1374E2,greedy
-1374E2,implementation
-1374E2,sortings
-1374E2,ternary search
-1374E2,two pointers 
-1374E1,data structures
-1374E1,greedy
-1374E1,sortings 
+1.37E+05,data structures
+1.37E+05,greedy
+1.37E+05,implementation
+1.37E+05,sortings
+1.37E+05,ternary search
+1.37E+05,two pointers 
+1.37E+04,data structures
+1.37E+04,greedy
+1.37E+04,sortings 
 1374D,math
 1374D,sortings
 1374D,two pointers 
@@ -12383,18 +12383,18 @@ Problem ID,Tag
 1371F,data structures
 1371F,divide and conquer
 1371F,implementation 
-1371E2,binary search
-1371E2,combinatorics
-1371E2,dp
-1371E2,math
-1371E2,number theory
-1371E2,sortings 
-1371E1,binary search
-1371E1,brute force
-1371E1,combinatorics
-1371E1,math
-1371E1,number theory
-1371E1,sortings 
+1.37E+05,binary search
+1.37E+05,combinatorics
+1.37E+05,dp
+1.37E+05,math
+1.37E+05,number theory
+1.37E+05,sortings 
+1.37E+04,binary search
+1.37E+04,brute force
+1.37E+04,combinatorics
+1.37E+04,math
+1.37E+04,number theory
+1.37E+04,sortings 
 1371D,constructive algorithms
 1371D,greedy
 1371D,implementation 
@@ -12694,8 +12694,8 @@ Problem ID,Tag
 1358B,sortings 
 1358A,greedy
 1358A,math 
-1357E2,
-1357E1,
+1.36E+05,
+1.36E+04,
 1357D5,
 1357D4,
 1357D3,
@@ -12996,14 +12996,14 @@ Problem ID,Tag
 1336F,divide and conquer
 1336F,graphs
 1336F,trees 
-1336E2,bitmasks
-1336E2,brute force
-1336E2,combinatorics
-1336E2,math 
-1336E1,bitmasks
-1336E1,brute force
-1336E1,combinatorics
-1336E1,math 
+1.34E+05,bitmasks
+1.34E+05,brute force
+1.34E+05,combinatorics
+1.34E+05,math 
+1.34E+04,bitmasks
+1.34E+04,brute force
+1.34E+04,combinatorics
+1.34E+04,math 
 1336D,constructive algorithms
 1336D,interactive 
 1336C,dp
@@ -13024,15 +13024,15 @@ Problem ID,Tag
 1335F,graphs
 1335F,greedy
 1335F,matrices 
-1335E2,brute force
-1335E2,data structures
-1335E2,dp
-1335E2,two pointers 
-1335E1,binary search
-1335E1,brute force
-1335E1,data structures
-1335E1,dp
-1335E1,two pointers 
+1.34E+05,brute force
+1.34E+05,data structures
+1.34E+05,dp
+1.34E+05,two pointers 
+1.34E+04,binary search
+1.34E+04,brute force
+1.34E+04,data structures
+1.34E+04,dp
+1.34E+04,two pointers 
 1335D,constructive algorithms
 1335D,implementation 
 1335C,binary search
@@ -13584,13 +13584,13 @@ Problem ID,Tag
 1296F,greedy
 1296F,sortings
 1296F,trees 
-1296E2,data structures
-1296E2,dp 
-1296E1,constructive algorithms
-1296E1,dp
-1296E1,graphs
-1296E1,greedy
-1296E1,sortings 
+1.30E+05,data structures
+1.30E+05,dp 
+1.30E+04,constructive algorithms
+1.30E+04,dp
+1.30E+04,graphs
+1.30E+04,greedy
+1.30E+04,sortings 
 1296D,greedy
 1296D,sortings 
 1296C,data structures
@@ -13889,9 +13889,9 @@ Problem ID,Tag
 1275F,*special problem
 1275F,binary search
 1275F,interactive 
-1275E3,*special problem 
-1275E2,*special problem 
-1275E1,*special problem 
+1.28E+06,*special problem 
+1.28E+05,*special problem 
+1.28E+04,*special problem 
 1275D,*special problem 
 1275C,*special problem 
 1275B,*special problem 
@@ -14202,12 +14202,12 @@ Problem ID,Tag
 1252A,
 1251F,combinatorics
 1251F,fft 
-1251E2,binary search
-1251E2,data structures
-1251E2,greedy 
-1251E1,data structures
-1251E1,dp
-1251E1,greedy 
+1.25E+05,binary search
+1.25E+05,data structures
+1.25E+05,greedy 
+1.25E+04,data structures
+1.25E+04,dp
+1.25E+04,greedy 
 1251D,binary search
 1251D,greedy
 1251D,sortings 
@@ -14587,11 +14587,11 @@ Problem ID,Tag
 1216F,data structures
 1216F,dp
 1216F,greedy 
-1216E2,binary search
-1216E2,math 
-1216E1,binary search
-1216E1,brute force
-1216E1,math 
+1.22E+05,binary search
+1.22E+05,math 
+1.22E+04,binary search
+1.22E+04,brute force
+1.22E+04,math 
 1216D,math 
 1216C,geometry
 1216C,math 
@@ -14714,15 +14714,15 @@ Problem ID,Tag
 1209F,shortest paths
 1209F,strings
 1209F,trees 
-1209E2,bitmasks
-1209E2,dp
-1209E2,greedy
-1209E2,sortings 
-1209E1,bitmasks
-1209E1,brute force
-1209E1,dp
-1209E1,greedy
-1209E1,sortings 
+1.21E+05,bitmasks
+1.21E+05,dp
+1.21E+05,greedy
+1.21E+05,sortings 
+1.21E+04,bitmasks
+1.21E+04,brute force
+1.21E+04,dp
+1.21E+04,greedy
+1.21E+04,sortings 
 1209D,dfs and similar
 1209D,dsu
 1209D,graphs 
@@ -14854,12 +14854,12 @@ Problem ID,Tag
 1202B,shortest paths 
 1202A,bitmasks
 1202A,greedy 
-1201E2,graphs
-1201E2,interactive
-1201E2,shortest paths 
-1201E1,graphs
-1201E1,interactive
-1201E1,shortest paths 
+1.20E+05,graphs
+1.20E+05,interactive
+1.20E+05,shortest paths 
+1.20E+04,graphs
+1.20E+04,interactive
+1.20E+04,shortest paths 
 1201D,binary search
 1201D,dp
 1201D,greedy
@@ -15095,16 +15095,16 @@ Problem ID,Tag
 1185B,implementation
 1185B,strings 
 1185A,math 
-1184E3,data structures
-1184E3,dsu
-1184E3,graphs
-1184E3,trees 
-1184E2,dfs and similar
-1184E2,graphs
-1184E2,shortest paths
-1184E2,trees 
-1184E1,graphs
-1184E1,trees 
+1.18E+06,data structures
+1.18E+06,dsu
+1.18E+06,graphs
+1.18E+06,trees 
+1.18E+05,dfs and similar
+1.18E+05,graphs
+1.18E+05,shortest paths
+1.18E+05,trees 
+1.18E+04,graphs
+1.18E+04,trees 
 1184D2,math
 1184D2,matrices 
 1184D1,implementation 
@@ -15167,12 +15167,12 @@ Problem ID,Tag
 1182B,strings 
 1182A,dp
 1182A,math 
-1181E2,brute force
-1181E2,greedy
-1181E2,sortings 
-1181E1,brute force
-1181E1,divide and conquer
-1181E1,sortings 
+1.18E+05,brute force
+1.18E+05,greedy
+1.18E+05,sortings 
+1.18E+04,brute force
+1.18E+04,divide and conquer
+1.18E+04,sortings 
 1181D,binary search
 1181D,data structures
 1181D,implementation
@@ -16053,11 +16053,11 @@ Problem ID,Tag
 1108F,dsu
 1108F,graphs
 1108F,greedy 
-1108E2,data structures
-1108E2,implementation 
-1108E1,brute force
-1108E1,greedy
-1108E1,implementation 
+1.11E+05,data structures
+1.11E+05,implementation 
+1.11E+04,brute force
+1.11E+04,greedy
+1.11E+04,implementation 
 1108D,constructive algorithms
 1108D,dp
 1108D,greedy 
@@ -17133,12 +17133,12 @@ Problem ID,Tag
 1016A,math 
 1015F,dp
 1015F,strings 
-1015E2,binary search
-1015E2,dp
-1015E2,greedy 
-1015E1,brute force
-1015E1,dp
-1015E1,greedy 
+1.02E+05,binary search
+1.02E+05,dp
+1.02E+05,greedy 
+1.02E+04,brute force
+1.02E+04,dp
+1.02E+04,greedy 
 1015D,constructive algorithms
 1015D,greedy 
 1015C,sortings 
@@ -17241,8 +17241,8 @@ Problem ID,Tag
 1005F,dfs and similar
 1005F,graphs
 1005F,shortest paths 
-1005E2,sortings 
-1005E1,sortings 
+1.01E+05,sortings 
+1.01E+04,sortings 
 1005D,dp
 1005D,greedy
 1005D,number theory 
@@ -17283,8 +17283,8 @@ Problem ID,Tag
 1003C,math 
 1003B,constructive algorithms 
 1003A,implementation 
-1002E2,
-1002E1,
+1.00E+05,
+1.00E+04,
 1002D3,
 1002D2,
 1002D1,
@@ -17751,15 +17751,15 @@ Problem ID,Tag
 958F2,binary search
 958F2,two pointers 
 958F1,implementation 
-958E3,geometry 
-958E2,binary search
-958E2,dp
-958E2,greedy
-958E2,sortings 
-958E1,brute force
-958E1,geometry
-958E1,greedy
-958E1,math 
+9.58E+05,geometry 
+9.58E+04,binary search
+9.58E+04,dp
+9.58E+04,greedy
+9.58E+04,sortings 
+9.58E+03,brute force
+9.58E+03,geometry
+9.58E+03,greedy
+9.58E+03,math 
 958D2,
 958D1,expression parsing
 958D1,math 
@@ -20804,8 +20804,8 @@ Problem ID,Tag
 690F2,hashing
 690F2,trees 
 690F1,
-690E2,
-690E1,
+6.90E+04,
+6.90E+03,
 690D3,dp 
 690D2,combinatorics 
 690D1,
@@ -22680,8 +22680,8 @@ Problem ID,Tag
 513G1,meet-in-the-middle 
 513F2,flows 
 513F1,flows 
-513E2,dp 
-513E1,dp 
+5.13E+04,dp 
+5.13E+03,dp 
 513D2,constructive algorithms
 513D2,data structures 
 513D1,dfs and similar 
@@ -23788,8 +23788,8 @@ Problem ID,Tag
 391F3,
 391F2,greedy 
 391F1,dp 
-391E2,
-391E1,
+3.91E+04,
+3.91E+03,
 391D2,data structures 
 391D1,brute force 
 391C3,
@@ -24414,11 +24414,11 @@ Problem ID,Tag
 332B,dp
 332B,implementation 
 332A,implementation 
-331E2,constructive algorithms
-331E2,dp 
-331E1,constructive algorithms
-331E1,graphs
-331E1,implementation 
+3.31E+04,constructive algorithms
+3.31E+04,dp 
+3.31E+03,constructive algorithms
+3.31E+03,graphs
+3.31E+03,implementation 
 331D3,data structures
 331D3,implementation
 331D3,trees 
@@ -24538,12 +24538,12 @@ Problem ID,Tag
 316F2,
 316F1,dfs and similar
 316F1,implementation 
-316E3,data structures
-316E3,math 
-316E2,data structures
-316E2,math 
-316E1,brute force
-316E1,data structures 
+3.16E+05,data structures
+3.16E+05,math 
+3.16E+04,data structures
+3.16E+04,math 
+3.16E+03,brute force
+3.16E+03,data structures 
 316D3,dp
 316D3,math 
 316D2,dp 
@@ -25806,9 +25806,9 @@ Problem ID,Tag
 178F2,sortings
 178F2,strings 
 178F1,
-178E3,
-178E2,
-178E1,
+1.78E+05,
+1.78E+04,
+1.78E+03,
 178D3,
 178D2,
 178D1,
@@ -25826,8 +25826,8 @@ Problem ID,Tag
 177G1,strings 
 177F2,
 177F1,
-177E2,binary search 
-177E1,binary search 
+1.77E+04,binary search 
+1.77E+03,binary search 
 177D2,data structures 
 177D1,brute force 
 177C2,brute force
