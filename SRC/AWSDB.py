@@ -1,12 +1,15 @@
 import pymysql
 from pymysql import MySQLError
 
+import os
+
+# Connection settings come from the environment; never commit them.
 DB_CONFIG = {
-    'host': 'databaseprojectm3.cfuockog8tb5.eu-north-1.rds.amazonaws.com',
-    'user': 'admin',
-    'password': 'adminadmi',
-    'database': 'newschema',
-    'port': 3306,
+    'host': os.environ.get('DB_HOST'),
+    'user': os.environ.get('DB_USER'),
+    'password': os.environ.get('DB_PASSWORD'),
+    'database': os.environ.get('DB_NAME'),
+    'port': int(os.environ.get('DB_PORT', 3306)),
 }
 
 def fetch_attempts_by_name(screen_name):
